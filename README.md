@@ -1,5 +1,4 @@
 # ⚡ Veritas.ai - Intelligent Market Intelligence Platform
-> **Team:** Prabhat Kumar, Devesh, Gaurav
 
 **Unveiling Truth in Financial Noise.**
 
@@ -213,9 +212,8 @@ A comprehensive portfolio management platform with real-time P&L tracking and in
 
 | Name | Role / Area |
 | :--- | :--- |
-| **Prabhat Kumar** | **Project Lead & Backend/ML Architecture** |
-| **Devesh** | **Frontend Development** |
-| **Gaurav** | **Machine Learning** |
+| **Pratyush Raj** | **Project Lead & Backend/ML Architecture** |
+
 
 ---
 
